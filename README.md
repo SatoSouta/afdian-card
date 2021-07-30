@@ -4,6 +4,9 @@ Create a afdian.net card
 Like this:
 <img src="https://z3.ax1x.com/2021/07/30/WXMSAS.png" />
 
+## Example
+Check on https://satosouta.github.io/afdian-card/example.html
+
 ## How to use it?
 
 Like this:
